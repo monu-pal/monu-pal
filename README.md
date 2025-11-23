@@ -42,7 +42,7 @@
 ---
 
 ## 🔗 Connect with Me
-[LinkedIn](#) | [Portfolio](#) | [Resume](#)
+[LinkedIn](https://www.linkedin.com/in/monu-pal-205894282) | [Portfolio](#) | [Resume](#)
 
 ---
 
