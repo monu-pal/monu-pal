@@ -1,4 +1,10 @@
 ## Hi there 👋
+# Hi 👋, I'm Monu Pal
+
+- 🚀 Java Full-Stack Developer  
+- 💼 Skills: Java, Spring Boot, React, Microservices, AWS  
+- 📫 Reach me at: monupal@gmail.com  
+- 🌱 Learning: Data Science, Machine Learning  
 
 <!--
 **monu-pal/monu-pal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +18,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...  
 -->
