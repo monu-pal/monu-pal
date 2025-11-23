@@ -10,7 +10,7 @@
 - 🎨 Frontend: React.js, JavaScript, HTML, CSS  
 - 📊 Databases: PostgreSQL, MySQL, MongoDB  
 - 🔍 Learning: Data Science & Machine Learning  
-- 📬 How to reach me: **yourEmail@gmail.com**
+- 📬 How to reach me: **mp801166@gmail.com**
 
 ---
 
@@ -30,13 +30,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=monu-pal" />
 </p>
 
 ---
